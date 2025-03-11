@@ -64,7 +64,3 @@ Distribuição de outros códigos de status HTTP:
 Status 404: 200
 Status 500: 100
 ```
-
-## License
-
-This project is licensed under the MIT License.
